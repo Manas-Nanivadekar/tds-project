@@ -1,0 +1,8 @@
+{
+  "prompt": "A Japanese Edo-period ukiyo-e woodblock print of a scholar holding a glowing lantern over a long, unrolled paper scroll. The light sharply illuminates only three specific ink characters on the scroll, leaving the rest in heavy shadow. Strong black woodblock outlines, flat areas of unmodulated indigo and vermillion pigment, dynamic diagonal composition, visible woodgrain texture. No modern lighting, no gradients. --ar 4:3 --v 6.1",
+  "model": "Midjourney v6.1",
+  "concept": "Attention Mechanism in Neural Networks",
+  "tradition_name": "Japanese Edo-period woodblock prints (ukiyo-e)",
+  "tradition_period": "1603–1868",
+  "tradition_approach": "I utilized strong black linework mimicking carved wood, flat unmodulated pigments restricted to historical indigo and vermillion, and a diagonal composition. Shading and 3D lighting were explicitly avoided to maintain authenticity."
+}
