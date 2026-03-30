@@ -1,0 +1,9 @@
+{
+  "prompt": "A sprawling aerial view of an ancient, lush green rainforest abruptly transitioning into a desolate landscape. The destroyed half is made of burnt black stumps and grey ash, perfectly arranged into the rigid, vertical lines of a commercial barcode. High contrast, cinematic lighting, photorealistic textures, rule of thirds composition. --ar 16:9 --style raw --v 6.1",
+  "model": "Midjourney v6.1",
+  "dataset_name": "Global Forest Watch - Annual Tree Cover Loss",
+  "dataset_url": "https://www.globalforestwatch.org/",
+  "insight": "The accelerating rate of primary forest loss is driven directly by commercial commodity extraction.",
+  "concept": "Visualizing deforestation not as a declining line graph, but as the literal commodification of nature.",
+  "metaphor": "Burnt tree stumps perfectly arranged as a commercial barcode to represent the transactional destruction of ecosystems."
+}
